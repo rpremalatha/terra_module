@@ -1,0 +1,6 @@
+ami            = "ami-0cc96c4cd98401dae"
+keyName        = "TRIUMPH-KEY"
+instanceType   = "t3.micro"
+myInstanceName = "prodserver"
+cidr1          = "0.0.0.0/0"
+sgName         = "prod-security-group" 
